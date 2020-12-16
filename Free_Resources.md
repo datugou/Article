@@ -6,7 +6,7 @@
 ### WIPO 世界知识产权组织检索平台  
 <https://patentscope2.wipo.int/search/zh/search.jsf>  
 基本包含全球专利，从申请开始到审查完成的**所有公开文件及信息**。  
-  - [X] 可爬，同一 IP 多次访问会触发超难的图像验证码，[代码]()  
+  - [X] 可爬，同一 IP 多次访问会触发超难的图像验证码（需要回答问题，可以尝试建个库），[代码]()  
   
 ### EPO 欧洲欧洲专利局检索平台  
 <https://worldwide.espacenet.com/patent/>  
