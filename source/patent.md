@@ -20,16 +20,16 @@
 垃圾。访问速度慢；假设一栋办公楼使用同一个公共网络，办公楼太多人访问，会把办公楼整个 ip 认为是机器人，拒绝所有人访问。
   - [ ] 瑞数加密，可用浏览器模拟爬虫（如 selenium 等），同一 IP 多次访问会将该 IP 封一段时间，贼慢，我一般爬 CN 专利用下面的 RainPat。  
 
-### SIPO 专利检索及分析
-<http://pss-system.cnipa.gov.cn/>  
-垃圾中的垃圾。  
-Chromium 内核浏览器经常会卡死。
-
 ### SIPO 国家知识产权局中国及多国专利审查信息查询  
 <http://cpquery.cnipa.gov.cn/>  
 可查询专利**审查详细**，如法律状态和于专利局的交互文件等。  
 垃圾；访问速度慢；许多按道理需要公开的信息没有公开。
   - [ ] 需要登陆，在图像上点击汉字验证码，访问频率太快会被暂时封 ip？账号？ 
+
+### SIPO 专利检索及分析
+<http://pss-system.cnipa.gov.cn/>  
+垃圾中的垃圾。  
+Chromium 内核浏览器经常会卡死。
 
 ### FPO freepatentsonline  
 <https://www.freepatentsonline.com/>  
