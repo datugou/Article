@@ -18,12 +18,12 @@
 基本包含全球专利，包含**常规专利信息及原文**。
 
 ### SIPO 国家知识产权局专利公布与布告平台（中国）  
-<http://epub.sipo.gov.cn/>  
+<http://epub.cnipa.gov.cn/>  
 可检索并下载 **CN 专利原文**。  
   - [ ] 瑞数加密，可用浏览器模拟爬虫（如 selenium 等），同一 IP 多次访问会将该 IP 封一段时间，贼慢，我一般爬 CN 专利用下面的 RainPat  
   
 ### SIPO 国家知识产权局中国及多国专利审查信息查询  
-<http://cpquery.sipo.gov.cn/>  
+<http://cpquery.cnipa.gov.cn/>  
 可查询专利**审查详细**，如法律状态和于专利局的交互文件等。   
   - [ ] 需要登陆，在图像上点击汉字验证码，  
   
