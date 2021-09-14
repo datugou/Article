@@ -37,7 +37,7 @@ Chromium 内核浏览器经常会卡死。
 ## 生物序列
 ### LENS.ORG
 <https://www.lens.org/>
-
+可获取 WO、US、EP、JP 专利中的序列，fasta 格式。
 
 ## 其他信息
 ### SIPO 国家知识产权局中国及多国专利审查信息查询  
