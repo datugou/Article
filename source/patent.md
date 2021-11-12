@@ -9,7 +9,10 @@
 可获取 **WO、US、EP、JP 专利中的序列**，fasta 格式。
 
 ### WIPO 世界知识产权组织检索平台  
-<https://patentscope2.wipo.int/search/zh/search.jsf>  
+<https://patentscope.wipo.int/search/zh/search.jsf>  
+基本包含全球专利，从申请开始到审查完成的**所有公开文件及信息**。  
+ 
+#### 序列表
 - WO 专利，可在`文件`栏找到序列表 txt 版本；  
 - US、JP 专利，可在`文件`栏中`已公布申请`列中下载 ZIP 包，解压后可以找到序列表，US 一般是以 S00001.XML 为结尾的文件，记事本打开即可。  
 - KR 专利，可在`文件`栏中'已公布申请'列中点击 XML，搜索 “SequenceListDocument” 直接复制出来。  
@@ -23,8 +26,8 @@
 
 ## 专利原文检索
 ### WIPO 世界知识产权组织检索平台  
-<https://patentscope2.wipo.int/search/zh/search.jsf>  
-基本包含全球专利，从申请开始到审查完成的**所有公开文件及信息**。  
+<https://patentscope.wipo.int/search/zh/search.jsf>  
+
   
 ### EPO 欧洲欧洲专利局检索平台  
 <https://worldwide.espacenet.com/patent/>  
@@ -38,7 +41,7 @@
 ### SIPO 国家知识产权局专利公布与布告平台（中国）  
 <http://epub.cnipa.gov.cn/>  
 可检索并下载 **CN 专利原文**。  
-**垃圾**。访问速度慢；假设一栋办公楼使用同一个公共网络，办公楼太多人访问，会把办公楼整个 ip 认为是机器人，拒绝所有人访问。
+**垃圾**。不知道什么原因就会登不上去；访问速度慢。
   - [ ] 同一 IP 多次访问会将该 IP 封一段时间。  
 
 ### SIPO 国家知识产权局中国及多国专利审查信息查询  
