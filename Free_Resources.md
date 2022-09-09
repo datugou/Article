@@ -49,7 +49,7 @@
 <https://sci-hub.tw/>  
 <https://libgen.sci-hub.pm/>  
 可检索并下载几乎全部**外文文献**。  
-免费的，由于大家都懂的特殊原因，上面的链接可能失效。
+目前处于暂停更新文章的状态，只有2020年10月之前的文章。
 
 ### iData  
 <https://www.cn-ki.net/>  
